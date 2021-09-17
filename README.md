@@ -1,4 +1,10 @@
 ### Hi there 👋
+> 喜欢安全
+> 
+> 今天没啥好说的，但不代表明天没有。
+> 
+> 纸上得来终觉浅，绝知此事要躬行。
+> 
 
 <!--
 **orange-kill/orange-kill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
